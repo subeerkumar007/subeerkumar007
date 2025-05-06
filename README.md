@@ -1,5 +1,23 @@
-# 💫 About Me:
-Hi, I'm Subeer Kumar<br>I'm a passionate Full-Stack Developer and Machine Learning with a love for building impactful web applications and exploring emerging technologies like AI, blockchain, and real-time systems.<br><br>🔭 I’m currently working on: Ambulance Tracker System with GPS and real-time updates<br><br>🌱 I’m learning: FastAPI, Next.js, Web Speech API, and ChromaDB<br><br>💬 Ask me about: React, Python, APIs, or map-based tracking systems<br><br>⚡ Fun fact: I love solving real-world problems through code and often participate in hackathons<br><br>📫 How to reach me: subeerk491@gmail.com<br><br>
+## 👋 Hello, World! I'm [Your Name] 👨‍💻
+I'm a passionate **Full Stack Developer** and problem solver who loves turning ideas into reality through code. I enjoy working on cutting-edge technologies like **AI**, **blockchain**, and **real-time systems**.
+### 🚀 What I'm Working On
+- 🩺 **Ambulance Tracker System** – Real-time GPS tracking using `Mapbox`, `FastAPI`, and `ChromaDB`
+- 🧠 AI-powered applications with `Gemini API`, `Whisper`, and `Vision models`
+- 🗣️ Voice-enabled interfaces using `Web Speech API`
+
+### 🌱 Currently Exploring
+- `Next.js` & `Tailwind CSS` for sleek UIs  
+- `FastAPI` for blazing fast backends  
+- Realtime databases and geolocation tracking
+
+### 💡 Fun Facts
+- ⚡ I thrive in hackathons and love solving real-world challenges  
+- 🌍 Always curious about how tech can improve lives  
+- 🎯 Strong believer in clean code and smart design
+
+### 📫 Let's Connect!
+- ✉️ Email: [your.email@example.com]  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 
 
 ## 🌐 Socials:
