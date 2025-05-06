@@ -16,8 +16,8 @@ I'm a passionate **Full Stack Developer** and problem solver who loves turning i
 - 🎯 Strong believer in clean code and smart design
 
 ### 📫 Let's Connect!
-- ✉️ Email: [your.email@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- ✉️ Email: Subeerk491@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/subeer-kumar007/  
 
 
 ## 🌐 Socials:
